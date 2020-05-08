@@ -1,0 +1,13 @@
+ul{
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    list-style-type: none;
+    margin: auto
+}
+ul li:nth-of-type(odd) {
+    background-color: #ccc;
+}
+li{
+    padding: 5px;
+}
